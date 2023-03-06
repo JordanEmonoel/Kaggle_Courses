@@ -4,13 +4,7 @@
 
 # Data Visualization
 
-In this course, I learned to use data visualization with the seaborn library. I also learned to use:
-. Line charts
-. Histograms
-. KDE's
-. Bar charts
-. Heatmaps
-. Scatter Plots
+In this course, I learned to use data visualization with the seaborn library. I also learned to use Line charts, Histograms, KDE's, Bar charts, Heatmaps and Scatter Plots.
 
 # Pandas
 
